@@ -1,0 +1,12 @@
+C:\Users\gukov\Desktop\complex numbers\complex numbers\obj\Debug\complex numbers.csprojAssemblyReference.cache
+C:\Users\gukov\Desktop\complex numbers\complex numbers\obj\Debug\complex_numbers.Properties.Resources.resources
+C:\Users\gukov\Desktop\complex numbers\complex numbers\obj\Debug\complex numbers.csproj.GenerateResource.cache
+C:\Users\gukov\Desktop\complex numbers\complex numbers\bin\Debug\complex numbers.exe.config
+C:\Users\gukov\Desktop\complex numbers\complex numbers\bin\Debug\complex numbers.exe
+C:\Users\gukov\Desktop\complex numbers\complex numbers\bin\Debug\complex numbers.pdb
+C:\Users\gukov\Desktop\complex numbers\complex numbers\obj\Debug\complex_numbers.Form1.resources
+C:\Users\gukov\Desktop\complex numbers\complex numbers\obj\Debug\complex numbers.exe
+C:\Users\gukov\Desktop\complex numbers\complex numbers\obj\Debug\complex numbers.pdb
+C:\Users\gukov\Desktop\complex numbers\complex numbers\bin\Debug\LibraryComplexNumb.dll
+C:\Users\gukov\Desktop\complex numbers\complex numbers\bin\Debug\LibraryComplexNumb.pdb
+C:\Users\gukov\Desktop\complex numbers\complex numbers\obj\Debug\complex numbers.csproj.CopyComplete
