@@ -1,0 +1,8 @@
+C:\Users\gukov\Desktop\complex numbers\LibraryComplexNumb\bin\Debug\netstandard2.0\LibraryComplexNumb.deps.json
+C:\Users\gukov\Desktop\complex numbers\LibraryComplexNumb\bin\Debug\netstandard2.0\LibraryComplexNumb.dll
+C:\Users\gukov\Desktop\complex numbers\LibraryComplexNumb\bin\Debug\netstandard2.0\LibraryComplexNumb.pdb
+C:\Users\gukov\Desktop\complex numbers\LibraryComplexNumb\obj\Debug\netstandard2.0\LibraryComplexNumb.AssemblyInfoInputs.cache
+C:\Users\gukov\Desktop\complex numbers\LibraryComplexNumb\obj\Debug\netstandard2.0\LibraryComplexNumb.AssemblyInfo.cs
+C:\Users\gukov\Desktop\complex numbers\LibraryComplexNumb\obj\Debug\netstandard2.0\LibraryComplexNumb.dll
+C:\Users\gukov\Desktop\complex numbers\LibraryComplexNumb\obj\Debug\netstandard2.0\LibraryComplexNumb.pdb
+C:\Users\gukov\Desktop\complex numbers\LibraryComplexNumb\obj\Debug\netstandard2.0\LibraryComplexNumb.csprojAssemblyReference.cache
